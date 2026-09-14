@@ -106,11 +106,19 @@ See [Risk Treatment and Residual Risk](docs/risk-treatment-and-residual-risk.md)
 
 See [Audit and Assurance Limitations](docs/audit-and-assurance.md).
 
+### 7. Framework Mapping
+
+- Connected ISO/IEC 27001:2022 with NIST CSF 2.0
+- Preserved scope limitations when controls/outcomes were not meaningful for a personal virtual lab
+- Kept UU PDP mapping explicitly analytical rather than presenting it as legal compliance
+
+See [Framework Mapping](docs/framework-mapping.md).
+
 ## Public Portfolio Report
 
 A recruiter-friendly summary of the assessment is available here:
 
-[View the GRC portfolio report](report/GRC_SOC_Lab_Assessment_Portfolio.pdf)
+[View the GRC portfolio report](report/GRC_SOC_Lab_Assessment_Portfolio.md)
 
 ## Repository Structure
 
