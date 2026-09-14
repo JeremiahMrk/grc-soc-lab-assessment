@@ -1,0 +1,32 @@
+# Secrets and environment files
+.env
+.env.*
+secrets/
+credentials/
+private/
+
+# Security-sensitive evidence
+raw-evidence/
+raw-scans/
+raw-logs/
+raw-config/
+*.nessus
+*.har
+*.burp
+*.pcap
+*.pcapng
+*.log
+
+# Keys / certificates
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
