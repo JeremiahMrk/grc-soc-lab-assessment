@@ -145,17 +145,10 @@ The goal is to demonstrate GRC methodology, evidence discipline, risk reasoning,
 
 ## Skills Demonstrated
 
-- Information Security Governance
-- ISMS Scoping
 - Asset Inventory and Classification
-- Evidence Management and Traceability
 - Risk Assessment and Risk Register Development
-- Risk Treatment Planning
-- Residual-Risk Assessment
 - ISO/IEC 27001:2022
 - Statement of Applicability
 - Control-Gap Analysis
 - NIST CSF 2.0 Mapping
-- Internal Control Testing
-- Corrective-Action Tracking
 - Security Documentation and Reporting
